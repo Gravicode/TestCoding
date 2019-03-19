@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soal 01 - OOP", "Soal 01 - OOP", "{34BFD117-DE30-42BC-8948-94B23302CA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal01", "Soal01\Soal01.csproj", "{B46AA6F9-783E-4267-8E15-AD5B999F82B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soal 02 - Algorthm", "Soal 02 - Algorthm", "{555C1278-E396-4327-BC99-3C2AD3752BEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soal02", "Soal02\Soal02.csproj", "{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soal 03 - Drawing", "Soal 03 - Drawing", "{64D13291-EE13-4DC6-8648-8AFD9980E2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal03", "Soal03\Soal03.csproj", "{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soal 04 - Web Database", "Soal 04 - Web Database", "{9945AF2C-D280-4BB9-B41D-19B0869B0B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal04", "Soal04\Soal04.csproj", "{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Soal 05 - Creativity and Collaboration", "Soal 05 - Creativity and Collaboration", "{B0BA650B-625E-4337-9D66-C3ABAA4F9158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soal05", "Soal05\Soal05.csproj", "{098958D4-E344-467A-BD74-DC348EE80CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46AA6F9-783E-4267-8E15-AD5B999F82B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46AA6F9-783E-4267-8E15-AD5B999F82B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46AA6F9-783E-4267-8E15-AD5B999F82B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46AA6F9-783E-4267-8E15-AD5B999F82B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098958D4-E344-467A-BD74-DC348EE80CA3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B46AA6F9-783E-4267-8E15-AD5B999F82B5} = {34BFD117-DE30-42BC-8948-94B23302CA5A}
+		{94AAE98F-B6B3-400C-AF7F-D3D0565E80AB} = {555C1278-E396-4327-BC99-3C2AD3752BEB}
+		{5A5B78C2-CD86-408C-9D72-4D7CC2290CCD} = {64D13291-EE13-4DC6-8648-8AFD9980E2AA}
+		{74D5034A-83B6-4CEF-9E5F-FAC1527CB18C} = {9945AF2C-D280-4BB9-B41D-19B0869B0B0B}
+		{098958D4-E344-467A-BD74-DC348EE80CA3} = {B0BA650B-625E-4337-9D66-C3ABAA4F9158}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC225705-66E5-47C5-97EA-71D65A21DB55}
+	EndGlobalSection
+EndGlobal

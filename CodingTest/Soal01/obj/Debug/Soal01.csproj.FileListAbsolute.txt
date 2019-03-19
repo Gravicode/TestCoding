@@ -1,0 +1,7 @@
+c:\jobs\CodingTest\Soal01\bin\Debug\Soal01.exe.config
+c:\jobs\CodingTest\Soal01\bin\Debug\Soal01.exe
+c:\jobs\CodingTest\Soal01\bin\Debug\Soal01.pdb
+c:\jobs\CodingTest\Soal01\obj\Debug\Soal01.csprojAssemblyReference.cache
+c:\jobs\CodingTest\Soal01\obj\Debug\Soal01.csproj.CoreCompileInputs.cache
+c:\jobs\CodingTest\Soal01\obj\Debug\Soal01.exe
+c:\jobs\CodingTest\Soal01\obj\Debug\Soal01.pdb

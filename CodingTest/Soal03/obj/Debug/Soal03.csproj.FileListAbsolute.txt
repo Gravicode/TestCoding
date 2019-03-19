@@ -1,0 +1,10 @@
+c:\jobs\CodingTest\Soal03\bin\Debug\Soal03.exe.config
+c:\jobs\CodingTest\Soal03\bin\Debug\Soal03.exe
+c:\jobs\CodingTest\Soal03\bin\Debug\Soal03.pdb
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.csprojAssemblyReference.cache
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.GameForm.resources
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.Properties.Resources.resources
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.csproj.GenerateResource.cache
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.csproj.CoreCompileInputs.cache
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.exe
+c:\jobs\CodingTest\Soal03\obj\Debug\Soal03.pdb
